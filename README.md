@@ -80,7 +80,18 @@ Logic Symbol
 ## Timing diagram 
 ![image](https://user-images.githubusercontent.com/94219798/166142686-cd06c600-59e4-462a-9789-672b93329a3b.png)
 
+## Full Suubtractor:
+Logic Symbol
+![image](https://user-images.githubusercontent.com/94219798/166142821-d02cb156-0df7-4ad6-bdc5-73042415ccaf.png)
 
+## Truthtable
+![image](https://user-images.githubusercontent.com/94219798/166142832-68652e15-1fd1-4783-a1b3-69cd74c70b2a.png)
+
+## RTL realization
+![image](https://user-images.githubusercontent.com/94219798/166142845-9672fbb8-496d-4f1d-a959-dcca467a62d8.png)
+
+## Timing diagram
+![image](https://user-images.githubusercontent.com/94219798/166142858-1b0f3a29-ee79-4c6f-9c5a-7aa3bb6d3b83.png)
 
 
 ## Result:
