@@ -64,6 +64,8 @@ endmodule
 ```
 
 ## Output:
+Half Subtractor:
+Logic Symbol
 ![image](https://user-images.githubusercontent.com/94219798/166142615-d4ce33cc-826d-4a9e-8159-a06e5c38380a.png)
 
 ## Truthtable
