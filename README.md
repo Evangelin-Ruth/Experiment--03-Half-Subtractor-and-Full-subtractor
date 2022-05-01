@@ -65,7 +65,7 @@ endmodule
 
 ## Output:
 ## Half Subtractor:
-Logic Symbol
+# Logic Symbol
 ![image](https://user-images.githubusercontent.com/94219798/166142615-d4ce33cc-826d-4a9e-8159-a06e5c38380a.png)
 
 ## Truthtable
@@ -81,7 +81,7 @@ Logic Symbol
 ![image](https://user-images.githubusercontent.com/94219798/166142686-cd06c600-59e4-462a-9789-672b93329a3b.png)
 
 ## Full Suubtractor:
-Logic Symbol
+# Logic Symbol
 ![image](https://user-images.githubusercontent.com/94219798/166142821-d02cb156-0df7-4ad6-bdc5-73042415ccaf.png)
 
 ## Truthtable
