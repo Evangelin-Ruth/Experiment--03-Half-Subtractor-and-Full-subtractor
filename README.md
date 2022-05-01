@@ -64,7 +64,7 @@ endmodule
 ```
 
 ## Output:
-Half Subtractor:
+## Half Subtractor:
 Logic Symbol
 ![image](https://user-images.githubusercontent.com/94219798/166142615-d4ce33cc-826d-4a9e-8159-a06e5c38380a.png)
 
@@ -79,6 +79,8 @@ Logic Symbol
 
 ## Timing diagram 
 ![image](https://user-images.githubusercontent.com/94219798/166142686-cd06c600-59e4-462a-9789-672b93329a3b.png)
+
+
 
 
 ## Result:
